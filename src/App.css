@@ -33,11 +33,6 @@ li:hover {
   color: blue;
 }
 
-li a {
-  text-decoration: none;
-  color: black;
-}
-
 .destinationCard {
   display: flex;
   flex-direction: column;
